@@ -90,3 +90,12 @@ nav {
     max-height: 50vh;
     
    }
+
+.projectLink img#pret {
+    max-height: 35vh;
+    
+   }
+
+    .projectLink img:hover {
+     border: 3px white solid;
+    }
